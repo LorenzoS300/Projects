@@ -1,1 +1,1 @@
-# Projects Generalized Chess Knight
+# PGeneralized Chess Knight
