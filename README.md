@@ -1,1 +1,1 @@
-Generalozed Chess Knight
+Generalized Chess Knight
